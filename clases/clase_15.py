@@ -1,6 +1,4 @@
-from visual
+def restar(n1, n2):
+    print("el resultado de la resta entre n1 + n2 es de : ", n1 - n2)
 
-f = open("/NBA Stats 202324 All Stats  NBA Player Props Tool (4).csv", "r")
-content = f.read()
-print(content)
-f.close()
+restar(int(input("ingresa el primer numero: ")), int(input("ingresa el segundo numero: ")))
