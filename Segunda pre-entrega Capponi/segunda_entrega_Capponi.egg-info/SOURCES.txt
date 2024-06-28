@@ -1,0 +1,7 @@
+setup.py
+segunda-entrega/Primera_pre-entrega.py
+segunda-entrega/Segunda_pre-entrega.py
+segunda_entrega_Capponi.egg-info/PKG-INFO
+segunda_entrega_Capponi.egg-info/SOURCES.txt
+segunda_entrega_Capponi.egg-info/dependency_links.txt
+segunda_entrega_Capponi.egg-info/top_level.txt
